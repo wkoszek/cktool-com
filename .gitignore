@@ -1,0 +1,41 @@
+# macOS
+.DS_Store
+
+# Working files - audio recordings
+*.m4a
+*.wav
+*.wav.json
+
+# Working files - source photos & screenshots
+073F578F-*.jpeg
+50CAE9EF-*.jpeg
+59FEC3C3-*.jpg
+6E7C4EDE-*.jpg
+B3AC655A-*.jpeg
+CD9C0715-*.jpeg
+DA668AEB-*.jpeg
+EB4467F8-*.jpeg
+cktool-*.png
+Machined*.jpg
+Sheetmetal*.jpg
+Tractor*.jpg
+
+# Working files - notes & context
+073F578F-*.md
+50CAE9EF-*.md
+59FEC3C3-*.md
+6E7C4EDE-*.md
+B3AC655A-*.md
+CD9C0715-*.md
+DA668AEB-*.md
+EB4467F8-*.md
+New_Recording_*.md
+CONTEXT.md
+EMAIL.md
+INFO
+
+# Scripts
+transcribe
+
+# Claude
+.claude/
